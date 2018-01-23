@@ -24,15 +24,15 @@ Humans use an impressive set of auditory cues to determine the origin of sound. 
 
 Pop quiz! What do these three equations have in common?
 
-![alt text]({{"/_assets/spatializer/itd_1.gif" | absolute_url }} "Ooh, math.")
+![Eq. 1](/_assets/spatializer/itd_1.gif "Ooh, math.")
 
-![alt text]({{"/_assets/spatializer/itd_2.gif" | absolute_url }} "What! A piecewise equation! Gads!")
+![Eq. 2](/_assets/spatializer/itd_2.gif "What! A piecewise equation! Gads!")
 
-![alt text]({{"/_assets/spatializer/itd_3.gif" | absolute_url }} "I suppose you could cheat at this quiz by looking at the filenames in the source, but it's not a real quiz so I'm not held to the same standards. Even then, I've had quizzes count for a grade where the answer was in the source, so I'm at least operating at that level.")
+![Eq. 3](/_assets/spatializer/itd_3.gif "I suppose you could cheat at this quiz by looking at the filenames in the source, but it's not a real quiz so I'm not held to the same standards. Even then, I've had quizzes count for a grade where the answer was in the source, so I'm at least operating at that level.")
 
 Answer! They are three different answers to the following question (or variations on it):
 
-![alt text]({{"/_assets/spatializer/dia_1.png" | absolute_url}} "I drew this diagram about 15 times, and look at it. It's awful. I don't know what to do.")
+![Diagram](/_assets/spatializer/dia_1.png" "I drew this diagram about 15 times, and look at it. It's awful. I don't know what to do.")
 
 The number we're looking for is X-Y, or the difference in distance it takes for the sound to hit the right ear after the left. Our brains solve the opposite problem every time you hear a sound, so I thought I would be able to solve it myself with trig (eq. 1). But reading the wikipedia page for sound localization, I learned that the difference is frequency dependent (eq. 2). Those numbers seemed absurdly high (maybe they were not, I do not know), so I sought out and found eq. 3 in a pdf for a CSE class somewhere. Why are they all different? How do you derive the second two? Why is the second one so much larger? What's going on here?
 
@@ -43,7 +43,7 @@ I'd like to contend for a moment that I've tapped into some kind of mathematical
 It's the same problem, but with some curiousities. If sound is taking longer to reach a different ear, and if it's reflecting through and around the head, the amplitude is going to be lower or greater than the original. This math is more complicated (and I wasn't exactly nailing the first part), and I can not explain it further.
 
 
-![alt text]({{"/_assets/spatializer/iid.gif" | absolute_url}} "Look! Numbers! Science!")
+![alt text](/_assets/spatializer/iid.gif "Look! Numbers! Science!")
 
 ## Program
 
@@ -102,7 +102,7 @@ def genDelayGain(mono, angle, order, low_freq=0, high_freq=math.inf):
 	return(left, right)
 
 
-def spatialize(mono, span=(52, 68), resolution = 2, order = 8):
+def spatialize(mono, span=(52, 68), resolution = 2, order = 5):
 	outsong = AudioSegment.silent(len(mono)+500)
 	l = (span[1]-span[0])
 	scalar = 180/(l-1)
@@ -124,7 +124,7 @@ def spatialize(mono, span=(52, 68), resolution = 2, order = 8):
 
 
 if len(sys.argv) < 2:
-    print("Usage: %s <filename> [order=5] [resolution=3] [lower=9] [upper=97]" % sys.argv[0])
+    print("Usage: %s <filename>" % sys.argv[0])
     sys.exit(1)
 
 filename = sys.argv[1]
@@ -136,7 +136,7 @@ mono = song.set_channels(1)
 outsong = spatialize(mono)
 
 outsong.export("fixed_%s" % filename, format=filename[-3:])
-print("\a") 
+
 ~~~~
 
 Unfortunately, the outputs have to be tuned song by song (the program takes a few minutes to run, so this is a low-latency operation). As a result, I currently have only one working example. I'm working on a couple fixes which will hopefully be coming soon but which are currently not functional. 
@@ -145,4 +145,4 @@ Here is the example, part of a track from *Reprise...* on the Spirited Away soun
 
 
 
-![alt text]({{"/_assets/spatializer/sa.gif" | absolute_url }} "I think it's neat anyway.")
+![alt text](/_assets/spatializer/sa.gif "I think it's neat anyway.")
