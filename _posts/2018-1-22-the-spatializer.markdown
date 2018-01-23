@@ -5,7 +5,7 @@ date:   2018-01-22
 categories: audio experiments
 ---
 
-When Isaac Newton first stepped out onto Plymouth Rock, when he saw the fields of bodies and blood that reached out to the horizon, he made a solemn vow. He vowed that one day someone would write a program to arrange music into physical space by pitch, and that it wouldn't sound like crap.
+When Isaac Newton first stepped out onto Plymouth Rock, he looked out and saw fields of blood and despair. This land was not a fertile place, but he would make do. After all, he had no other choice. He knew what he had done, and so he knew what he must do. In penance, he made a sacred vow to himself, a vow to make a world where good could again triumph. He vowed that one day someone would write a program to arrange music into physical space by pitch, and that it wouldn't sound like crap.
 
 Today is the day that I fail to fulfill that vow, once and for all. 
 
@@ -24,15 +24,15 @@ Humans use an impressive set of auditory cues to determine the origin of sound. 
 
 Pop quiz! What do these three equations have in common?
 
-![Eq. 1](/_assets/spatializer/itd_1.gif "Ooh, math.")
+![Eq. 1](/assets/spatializer/itd_1.gif "Ooh, math.")
 
-![Eq. 2](/_assets/spatializer/itd_2.gif "What! A piecewise equation! Gads!")
+![Eq. 2](/assets/spatializer/itd_2.gif "What! A piecewise equation! Gads!")
 
-![Eq. 3](/_assets/spatializer/itd_3.gif "I suppose you could cheat at this quiz by looking at the filenames in the source, but it's not a real quiz so I'm not held to the same standards. Even then, I've had quizzes count for a grade where the answer was in the source, so I'm at least operating at that level.")
+![Eq. 3](/assets/spatializer/itd_3.gif "I suppose you could cheat at this quiz by looking at the filenames in the source, but it's not a real quiz so I'm not held to the same standards. Even then, I've had quizzes count for a grade where the answer was in the source, so I'm at least operating at that level.")
 
 Answer! They are three different answers to the following question (or variations on it):
 
-![Diagram](/_assets/spatializer/dia_1.png" "I drew this diagram about 15 times, and look at it. It's awful. I don't know what to do.")
+![Diagram](/assets/spatializer/dia_1.png" "I drew this diagram about 15 times, and look at it. It's awful. I don't know what to do.")
 
 The number we're looking for is X-Y, or the difference in distance it takes for the sound to hit the right ear after the left. Our brains solve the opposite problem every time you hear a sound, so I thought I would be able to solve it myself with trig (eq. 1). But reading the wikipedia page for sound localization, I learned that the difference is frequency dependent (eq. 2). Those numbers seemed absurdly high (maybe they were not, I do not know), so I sought out and found eq. 3 in a pdf for a CSE class somewhere. Why are they all different? How do you derive the second two? Why is the second one so much larger? What's going on here?
 
@@ -43,7 +43,7 @@ I'd like to contend for a moment that I've tapped into some kind of mathematical
 It's the same problem, but with some curiousities. If sound is taking longer to reach a different ear, and if it's reflecting through and around the head, the amplitude is going to be lower or greater than the original. This math is more complicated (and I wasn't exactly nailing the first part), and I can not explain it further.
 
 
-![alt text](/_assets/spatializer/iid.gif "Look! Numbers! Science!")
+![Meaningless Garbage](/assets/spatializer/iid.gif "Look! Numbers! Science!")
 
 ## Program
 
@@ -141,8 +141,10 @@ outsong.export("fixed_%s" % filename, format=filename[-3:])
 
 Unfortunately, the outputs have to be tuned song by song (the program takes a few minutes to run, so this is a low-latency operation). As a result, I currently have only one working example. I'm working on a couple fixes which will hopefully be coming soon but which are currently not functional. 
 
-Here is the example, part of a track from *Reprise...* on the Spirited Away soundtrack.
+Here is the example, part of a track from *Reprise* on the Spirited Away soundtrack.
 
 
 
-![alt text](/_assets/spatializer/sa.gif "I think it's neat anyway.")
+![Hey, is this any good?](/assets/spatializer/sa.mp3 "I think it's neat anyway.")
+
+A big flaw with music that is already produced is that it's hard to tell how much the filter is adding. Because the program converts the music to mono, I think it's safe to assume that any spatial component is being generated. However, it's worth noting that the original is arranged not dissimilarly. 
