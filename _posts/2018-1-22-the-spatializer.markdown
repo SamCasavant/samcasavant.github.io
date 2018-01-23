@@ -32,7 +32,7 @@ Pop quiz! What do these three equations have in common?
 
 Answer! They are three different answers to the following question (or variations on it):
 
-![Binaural Diagram](/assets/spatializer/diagram.png" "I drew this diagram about 15 times, and look at it. It's awful. This shouldn't be hard. I don't know what to do.")
+![Binaural Diagram](/assets/spatializer/diagram.png "I drew this diagram about 15 times, and look at it. It's awful. This shouldn't be hard. I don't know what to do.")
 
 The number we're looking for is X-Y, or the difference in distance it takes for the sound to hit the right ear after the left. Our brains solve the opposite problem every time you hear a sound, so I thought I would be able to solve it myself with trig (eq. 1). But reading the wikipedia page for sound localization, I learned that the difference is frequency dependent (eq. 2). Those numbers seemed absurdly high (maybe they were not, I do not know), so I sought out and found eq. 3 in a pdf for a CSE class somewhere. Why are they all different? How do you derive the second two? Why is the second one so much larger? What's going on here?
 
