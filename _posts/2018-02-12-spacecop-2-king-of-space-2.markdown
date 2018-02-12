@@ -51,6 +51,7 @@ She flipped forward to the most recent entry.
 >Days 2415-
 >"It's quite dark out. Nothing of significance happened."
 >-Harls Slarly, Lord Elrond, King of Space
+
 "I guess that works. You're the King of Space now?"  
 
 Harls shrugged again.
