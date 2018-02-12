@@ -1,9 +1,9 @@
 # Site settings
-title: What is going on in here?
+title: Mystapost
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Seriously, what's happening? What does any of it mean? 
-baseurl: "" # the subpath of your site, e.g. /blog/
+  This blogs name changes every post. That's the joke.
+baseurl: "http://sam.casavant.org/" # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: 
 github_username:  
