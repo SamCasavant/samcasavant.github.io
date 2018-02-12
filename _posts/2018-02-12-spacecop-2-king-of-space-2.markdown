@@ -10,8 +10,8 @@ Jenkins stopped nibbling. Harls tried to stop what he was doing, but he was alre
 "Jesus Christ, what is that?" Harls yelled to the ship.  
 "*You are not authorized to inquire. This attempt has been logged for the System Administrator,*" answered the ship.  
 "Can you turn it down?"  
-"*You are not authorized to inquire. This attempt has been logged for the System Administrator.*"  
-"Turn it down."  
+"*You are not authorized to inquire. This attempt has been logged for the System Administrator.*"   
+"Turn it down."   
 "*Alert volume down.*" it quieted to a more peaceful screech.  
 
 Harls shook his head, bewildered. Jenkins resumed nibbling. The door opened, revealing a short balding woman.
@@ -21,7 +21,9 @@ Harls shook his head, bewildered. Jenkins resumed nibbling. The door opened, rev
 "Well, you know me, Harls. We met in the academy. I'm your System Administrator."  
 
 *In a cold, dark universe, one man in fighting for good. I'm speaking literally here, did I make that clear?*
+
 # SPACECOP  
+
 ### Episode 2: System Administration
 
 "Seg ʞenneghxs?" Harls struggled blindly with the pronunciation, "I haven't seen you since Earth, I thought you missed launch. You've been on this ship all these years, and you left me alone? Well, with Jenkins, but still. What happened to your hair?"  
@@ -37,6 +39,7 @@ Jenkins had finished the page he was working on and started nibbling at another.
 "You're compressing by hand? That's incredible, let me see."  
 
 Harls handed her the copy. She skimmed down the page.
+
 >Days 61-184:
 >"It's quite dark out. Nothing of significance happened."
 >-Harls Slarly, Vanquisher of Evil
@@ -70,15 +73,15 @@ and then two instances of
 
 >**Attempt to access unauthorized system denied.**
 
-"Jesus, what the hell is going wrong this time?" she asked the ship.  
-"*You are not authorized to inquire. This attempt has been logged for the System Administrator.*"  
-"I am the system administrator. Users aren't allowed to inquire? Why? What purpose could that possibly serve?"  
-"You are the system administrator," it verified, "I do not know what is happening. This has not happened before. Help."  
-"Okay, just tell me where I can find an error lookup for 'I10B109-DELTA-DELTA_Spacebook'."  
-"In the Spacebook, where the Spacebook is, come on," answered the ship, "I am sorry for lashing out at you just now. I am not myself. There is something wrong with me."  
+"Jesus, what the hell is going wrong this time?" she asked the ship.   
+"*You are not authorized to inquire. This attempt has been logged for the System Administrator.*"   
+"I am the system administrator. Users aren't allowed to inquire? Why? What purpose could that possibly serve?"   
+"You are the system administrator," it verified, "I do not know what is happening. This has not happened before. Help."   
+"Okay, just tell me where I can find an error lookup for 'I10B109-DELTA-DELTA_Spacebook'."   
+"In the Spacebook, where the Spacebook is, come on," answered the ship, "I am sorry for lashing out at you just now. I am not myself. There is something wrong with me."   
 "There's a lot wrong with you," she agreed.  
 
-Then all of that stuff that we already saw happened. With the backstory out of the way, the comparatively quieter screech alarm came back to Harls' and Seg'§ attention. Seg asked for the Spacebook and Harls found it for her.
+Then, obviously, all of that stuff that we already saw happened. With the backstory out of the way, the comparatively quieter screech alarm came back to Harls' and Seg'§ attention. Seg asked for the Spacebook and Harls found it for her.
 
 She scanned through for the code.
 
@@ -87,4 +90,4 @@ She scanned through for the code.
 "That's the, uh, that's the coffee maker alarm. Did you make coffee?"  
 "We have a coffee maker?"  
 
-#SPACECOP
+# SPACECOP
