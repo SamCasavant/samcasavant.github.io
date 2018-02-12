@@ -43,7 +43,9 @@ Harls handed her the copy. She skimmed down the page.
 >Days 61-184:
 >"It's quite dark out. Nothing of significance happened."
 >-Harls Slarly, Vanquisher of Evil
+
 _______________
+
 >Day 185:
 >"It's quite dark out. Jenkins broke something, and I don't know what it does. Probably won't resolve this."
 >-Sleepless in Space, Harls Slarly
