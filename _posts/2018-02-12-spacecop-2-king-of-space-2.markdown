@@ -49,7 +49,9 @@ _______________
 >Day 185:
 >"It's quite dark out. Jenkins broke something, and I don't know what it does. Probably won't resolve this."
 >-Sleepless in Space, Harls Slarly
+
 She flipped forward to the most recent entry.
+
 >Days 2415-
 >"It's quite dark out. Nothing of significance happened."
 >-Harls Slarly, Lord Elrond, King of Space
