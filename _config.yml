@@ -1,8 +1,8 @@
 # Site settings
-title: Mystapost
-email: 
+title: Life in Buffalo.
+email: samuel.j.casavant@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This blog's name changes every post. That's the joke.
+  A blog for the goings-on of Buffalo, NY. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://sam.casavant.org/"  # the base hostname & protocol for your site
 twitter_username: 
