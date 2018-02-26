@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Regarding the Death of Lawrence Kensington"
-date:   2018-02-05 23:35:00
+date:   2018-02-26 15:35:00
 categories: 
 ---
 
