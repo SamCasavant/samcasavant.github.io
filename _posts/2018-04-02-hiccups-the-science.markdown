@@ -27,19 +27,19 @@ The fear in the scientist grows rapidly. He can tell what you are trying to do, 
 
 > There are a number of ways to fight hiccups.
 
-1. Scare to death:
+1\. Scare to death:
 
 Hiccups have weak hearts. This is because they do not have to pump blood. We can take advantage of that weakness by giving them a big ol' spook. Lean off of a tall building, get on a roller coaster, yell really loud without warning, whatever it takes. While a heart attack can stop a hiccup temporarily, it may eventually realize that its heart is not a vital component. If this happens we can fall back on
 
-2. Suffocate
+2\. Suffocate
 
 Hiccups are parasitic. They lack the ability to acquire oxygen, and so they must rely on the oxygen of other organisms. Although it is impossible to hold your own breath, you can ask a friend or hire a stranger to hold your throat shut for whichever duration is necessary to rob the hiccup of its air supply. From there, your own immune system should be enough to kill the hiccup and consume its energy. If this fails, however
 
-3. Drink from the far side of a glass
+3\. Drink from the far side of a glass
 
 "I'm drinking from the wrong side of this glass, what are you gonna do about it?" Imagine saying that. Feels good, right? Now imagine being the hiccup. What *are* you going to do about it? You really don't know. That doubt you have sewn into the hiccups mind will eventually destroy it. But if not
 
-4. Wait it out
+4\. Wait it out
 
 Science tells us that hiccups will not go away on their own. In the rare cases where it has happened, no explanation can be provided. According to the theory of quantum hiccups, however, simply waiting will be sufficient. Eventually your consciousness will grow tired of the persistent hiccups and leap to another parallel reality in which the hiccups have been fought off, vanished mysteriously and without cause, or never existed in the first place. It is believed that our current reality is the True Reality, the one from which all hiccups have either been vanquished or simply evaporated. 
 
