@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Science of Hiccups"
-date:   2018-04-03
+date:   2018-04-02 11:59:59
 categories: [science, journalism]
 ---
 
