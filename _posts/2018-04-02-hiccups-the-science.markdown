@@ -1,8 +1,9 @@
-
-
-
-
-The Science of Hiccups
+---
+layout: post
+title:  "The Science of Hiccups"
+date:   2018-04-03
+categories: [science, journalism]
+---
 
 Hiccups. Are they all is, or are there other things as well? Are they creatures of magic or are they, too, bound by the laws of physics? What is their melting point? Who really killed John F. Kennedy? These questions and many others have pressed hard against the minds of all or else less than all people for thousands if not substantially more or fewer years. Today it is finally time to present the collective science of what they are and how to kill them.
 
