@@ -5,7 +5,7 @@ date:   2018-04-02 11:59:59
 categories: [science, journalism]
 ---
 
-Hiccups. Are they all is, or are there other things as well? Are they creatures of magic or are they, too, bound by the laws of physics? What is their melting point? Who really killed John F. Kennedy? These questions and many others have pressed hard against the minds of all or else less than all people for thousands if not substantially more or fewer years. Today it is finally time to present the collective science of what they are and how to kill them.
+Hiccups. Are they all there is, or are there other things as well? Are they creatures of magic or are they, too, bound by the laws of physics? What is their melting point? Who really killed John F. Kennedy? These questions and many others have pressed hard against the minds of all or else less than all people for thousands if not substantially more or fewer years. Today it is finally time to present the collective science of what they are and how to kill them.
 
 # What are Hiccups?
 
@@ -37,7 +37,7 @@ Hiccups are parasitic. They lack the ability to acquire oxygen, and so they must
 
 3\. Drink from the far side of a glass
 
-"I'm drinking from the wrong side of this glass, what are you gonna do about it?" Imagine saying that. Feels good, right? Now imagine being the hiccup. What *are* you going to do about it? You really don't know. That doubt you have sewn into the hiccups mind will eventually destroy it. But if not
+"I'm drinking from the wrong side of this glass, what are you gonna do about it?" Imagine saying that. Feels good, right? Now imagine being the hiccup. What *are* you going to do about it? You really don't know. That doubt you have sown into the hiccups mind will eventually destroy it. But if not
 
 4\. Wait it out
 
