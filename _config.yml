@@ -1,8 +1,8 @@
 # Site settings
-title: Sam Casavant fanpage
+title: Glasses Half Empty
 email: samuel.j.casavant@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Sam Casavant really is the best, his ability to do is much more than anyone else's. 
+  Skeptical Spectacles
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://sam.casavant.org/"  # the base hostname & protocol for your site
 twitter_username: 
