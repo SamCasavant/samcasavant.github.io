@@ -5,9 +5,6 @@ date:   2019-08-29 18:00:00
 categories: seriousness, accuracy, truth, fact, real
 ---
 
-
-Replication Crisis
-
 If science is the study of ‘things’ and ‘stuff’, sciencology is the study of ‘the study of things and stuff’ and general behaviors therein et cetera and so forth. I met with noted sciencologist Barry Fitzwaffel to discuss how all of that was going. His answer: not good.
 
 “The trouble we really encounter in the field is that they do these studies once, they take the conclusion and they move on. Very rarely do we see any kind of verification of these results.”
@@ -17,6 +14,8 @@ And that can have devastating effects. Take plastics. We’ve had plastics for o
 Dow chemical declined to comment. ExxonMobil said they would comment, but when I reached out and began asking questions, CEO Darren Woods repeatedly struck a flat palm against his stomach and shouted, “Can’t hear you over the tumslaps!” I had no choice but to leave, empty-handed and ashamed.
 
 ________
+
+
 
 At this point I was dumbstruck. Plastic, something I had taken completely for granted, had fallen victim to the replication crisis. Perhaps the original study was a fluke, perhaps it was intentionally misleading (Baekeland is known to have acquired a warehouse of ostrich feathers in 1905, two years before his ‘breakthrough’). Either way, I was beginning to feel like I couldn’t trust anything. I began asking an important question before turning on the TV, taking out the garbage, opening a window- has this been replicated? More often than not, the answer was no. “Tip of the iceberg,” Fitzwaffel told me.
 
@@ -30,6 +29,8 @@ In physics, it was shown that what went up only came down in 1 out of every 4 tr
 Not even science fiction is safe. “Oh yeah, we see replication problems there all the time. Blade Runners are bounty hunters tasked with systematically hunting down and ‘retiring’ (killing) remaining replicants. As a tool for identifying replicants, Blade Runners have a mental test consisting a series of emotion-evoking questions to help distinguish a replicant from a human,” Fitzwaffel told me, “Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi investigates an assassination attempt on the senator and discovers a secret clone army crafted for the Jedi."
 
 ________
+
+
 
 A study published just moments ago has lead to great suspicion of this very article. It found that the overwhelming majority of claims given were impossible to recreate in a lab. The study claimed that this article was pushed through on a deadline and had not been properly verified. I asked Barry about it, but it seemed that he, too, could not be replicated.
 
