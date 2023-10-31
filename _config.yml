@@ -1,9 +1,8 @@
 # Site settings
-title: Glasses Half-Empty
+title: Readers Beware...wolves!
 email: samuel.j.casavant@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Skeptical Spectacles. 
-  Winner of the prestigious 2018 "Only Good Title I've Come Up With" award
+  Like the readers are werewolves, not beware of wolves. But do that too. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://sam.casavant.org/"  # the base hostname & protocol for your site
 twitter_username: 
